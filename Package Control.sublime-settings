@@ -1,0 +1,21 @@
+{
+	"auto_upgrade_last_run": 1333559331,
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Gist",
+		"Jinja2",
+		"Markdown Preview",
+		"Package Control",
+		"SublimeBlockCursor",
+		"SublimeCodeIntel",
+		"VintageEx",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+		"git://github.com/netpro2k/SublimeBlockCursor",
+		"https://github.com/netpro2k/SublimeBlockCursor.git",
+		"git://github.com/netpro2k/SublimeBlockCursor.git"
+	]
+}
