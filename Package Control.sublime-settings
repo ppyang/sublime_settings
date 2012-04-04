@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1333559331,
+	"auto_upgrade_last_run": 1333564286,
 	"installed_packages":
 	[
 		"BracketHighlighter",
@@ -7,6 +7,7 @@
 		"Jinja2",
 		"Markdown Preview",
 		"Package Control",
+		"PythonTidy",
 		"SublimeBlockCursor",
 		"SublimeCodeIntel",
 		"VintageEx",
