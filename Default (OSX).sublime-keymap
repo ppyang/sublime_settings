@@ -6,14 +6,14 @@
                 { "key": "setting.is_widget", "operand": false }
             ]
     },
-    { "keys": ["w"], "command": "next_view_in_stack",
+    { "keys": [",", "w"], "command": "next_view_in_stack",
         "context":
             [
                 { "key": "setting.command_mode", "operand": true }
             ]
 
     },
-    { "keys": ["q"], "command": "prev_view_in_stack",
+    { "keys": [",", "q"], "command": "prev_view_in_stack",
             "context":
             [
                 { "key": "setting.command_mode", "operand": true }
