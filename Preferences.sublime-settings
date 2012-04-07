@@ -1,10 +1,12 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"font_size": 11,
+	"font_size": 13,
 	"ignored_packages":
 	[
 	],
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
-	"vintage_start_in_command_mode": true
+	"vintage_start_in_command_mode": true,
+    // Always propagate copied text to the system clipboard.
+    "vintage_use_clipboard": true
 }

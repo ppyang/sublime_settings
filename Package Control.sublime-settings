@@ -1,10 +1,11 @@
 {
-	"auto_upgrade_last_run": 1333588480,
+	"auto_upgrade_last_run": 1333803020,
 	"installed_packages":
 	[
 		"BracketHighlighter",
 		"Djaneiro",
 		"Gist",
+		"Inc-Dec-Value",
 		"Jinja2",
 		"Markdown Preview",
 		"Package Control",
