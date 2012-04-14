@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+    "build_systems":
+    [
+        {
+            "name": "",
+             "cmd": ["/Users/pp/lib/virtualenvs/ch/bin/python", "-u", "$file"],
+             "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+             "selector": "source.python"
+        }
+
+    ]
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <!-- <tabTrigger>hello</tabTrigger> -->
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,14 +1,12 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"font_size": 13,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 	],
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
-    // Makes tabs with modified files more visible
-    "highlight_modified_tabs": true,
 	"vintage_start_in_command_mode": true,
-    // Always propagate copied text to the system clipboard.
-    "vintage_use_clipboard": true
+	"vintage_use_clipboard": true
 }

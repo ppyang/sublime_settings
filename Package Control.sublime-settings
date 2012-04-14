@@ -1,12 +1,15 @@
 {
-	"auto_upgrade_last_run": 1333803020,
+	"auto_upgrade_last_run": 1333994890,
 	"installed_packages":
 	[
 		"BracketHighlighter",
 		"Djaneiro",
+		"FileDiffs",
 		"Gist",
 		"Inc-Dec-Value",
 		"Jinja2",
+		"LESS",
+		"LESS-build",
 		"Markdown Preview",
 		"Package Control",
 		"PythonTidy",
@@ -14,6 +17,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeRope",
+		"Twitter Bootstrap Snippets",
 		"VintageEx",
 		"ZenCoding"
 	],
