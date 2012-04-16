@@ -6,6 +6,13 @@
                 { "key": "setting.is_widget", "operand": false }
             ]
     },
+    { "keys": ["n", "n"], "command": "advanced_new_file",
+        "context":
+            [
+                { "key": "setting.command_mode", "operand": true }
+            ]
+
+    },
     { "keys": [",", "w"], "command": "next_view_in_stack",
         "context":
             [

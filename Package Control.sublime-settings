@@ -1,7 +1,8 @@
 {
-	"auto_upgrade_last_run": 1333994890,
+	"auto_upgrade_last_run": 1334430867,
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"BracketHighlighter",
 		"Djaneiro",
 		"FileDiffs",
