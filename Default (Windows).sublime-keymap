@@ -1,9 +1,29 @@
 [
-	{ "keys": ["j", "j"], "command": "exit_insert_mode",
-		"context":
-			[
-				{ "key": "setting.command_mode", "operand": false },
-				{ "key": "setting.is_widget", "operand": false }
-			]
-	}
+    { "keys": ["j", "j"], "command": "exit_insert_mode",
+        "context":
+            [
+                { "key": "setting.command_mode", "operand": false },
+                { "key": "setting.is_widget", "operand": false }
+            ]
+    },
+    { "keys": ["n", "n"], "command": "advanced_new_file",
+        "context":
+            [
+                { "key": "setting.command_mode", "operand": true }
+            ]
+
+    },
+    { "keys": [",", "w"], "command": "next_view_in_stack",
+        "context":
+            [
+                { "key": "setting.command_mode", "operand": true }
+            ]
+
+    },
+    { "keys": [",", "q"], "command": "prev_view_in_stack",
+            "context":
+            [
+                { "key": "setting.command_mode", "operand": true }
+            ]
+    }
 ]
