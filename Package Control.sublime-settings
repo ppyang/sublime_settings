@@ -1,29 +1,14 @@
 {
-	"auto_upgrade_last_run": 1334430867,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"BracketHighlighter",
-		"Djaneiro",
 		"FileDiffs",
 		"Gist",
-		"Inc-Dec-Value",
 		"Jinja2",
-		"LESS",
-		"LESS-build",
 		"Markdown Preview",
 		"Package Control",
-		"PythonTidy",
-		"SublimeBlockCursor",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeRope",
-		"Twitter Bootstrap Snippets",
-		"VintageEx",
 		"ZenCoding"
-	],
-	"repositories":
-	[
-		"https://github.com/netpro2k/SublimeBlockCursor"
 	]
 }
