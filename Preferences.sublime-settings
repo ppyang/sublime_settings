@@ -1,5 +1,20 @@
 {
-    "ignored_packages": [],
+    "ignored_packages": [
+        "ASP",
+        "ActionScript",
+        "AppleScript",
+        "ASP",
+        "D",
+        "Erlang",
+        "Go",
+        "Graphviz",
+        "Groovy",
+        "Haskell",
+        "Matlab",
+        "OCaml",
+        "R",
+        "TCL"
+        ],
 	"font_size": 13,
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
