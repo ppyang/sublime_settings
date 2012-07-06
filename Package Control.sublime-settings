@@ -1,4 +1,5 @@
 {
+	"auto_upgrade_last_run": 1341589703,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -7,7 +8,6 @@
 		"Jinja2",
 		"Markdown Preview",
 		"Package Control",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"ZenCoding"
 	]
