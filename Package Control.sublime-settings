@@ -1,13 +1,15 @@
 {
-	"auto_upgrade_last_run": 1341589703,
+	"auto_upgrade_last_run": 1342583567,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"All Autocomplete",
 		"FileDiffs",
 		"Gist",
 		"Jinja2",
 		"Markdown Preview",
 		"Package Control",
+		"SideBarEnhancements",
 		"SublimeLinter",
 		"ZenCoding"
 	]
